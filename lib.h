@@ -1,1 +1,2 @@
 
+void primo (int n);
