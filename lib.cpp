@@ -9,10 +9,10 @@ void primo (int n) {
     resto=n%i;
     } while(resto);
     if (n==i) {
-        cout << "Vero" << endl;
+        cout << "numero primo" << endl;
         return;
     } else {
-        cout << "False" << endl;
+        cout << "numero non primo" << endl;
         return;
     }
 }
